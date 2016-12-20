@@ -1,0 +1,305 @@
+/* This text color is specified in what's called "hex". You will learn more about this later. */
+
+
+
+
+
+
+
+/* change to a nicer font */
+body {
+    font-family: Helvetica;
+}
+
+/* the border-radius attribute makes the corners rounded and the margin clears out space for the stuff inside the lesson divs. Try seeing what  happens when you comment out the rule that says
+
+    padding: 10px; 
+
+by changing it to
+
+    /* padding: 10px; */
+.box_1 {
+     /* padding: 10px;
+background-color: #852021; */
+    
+    text-align: right;
+    font-weight: lighter;
+    font-size: 29px;
+    font-family:serif;
+    top: -112px;
+      padding: 10px;
+    border-radius: 20px;
+    color: #2d3c49;
+    line-height: 190%;
+    position: relative;
+    
+    width: 300px;
+    
+    left: 289px; 
+}
+
+.box_2 {
+  
+    top: -112px;
+    
+   
+    color: white;
+    line-height: 190%;
+    margin-top: 11px;
+    position: relative; 
+    width: 600px;
+}
+
+#banner_image{
+    
+    width: 600px;
+    
+    
+}
+
+
+.box_3 {
+    font-weight: bold;
+    top: -126px;
+   
+   
+    color: #7d97ad;
+    line-height: 190%;
+    margin-top: 11px;
+    position: relative; 
+     width: 98%;
+}
+
+
+a:link {
+    color: #2d3c49;
+}
+
+.box_4 {
+    font-weight: bold;
+    top: -132px;
+    padding: 0px;
+   
+    color: #7d97ad;
+    line-height: 190%;
+    margin-top: 11px;
+    position: relative; 
+     width: 600px;
+}
+
+.table_img_1st{
+    
+    width: 176px;
+    float: left;
+    
+}
+
+
+.table_img{
+    
+    width: 176px;
+    float: left;
+
+}
+
+.table_img_center{
+    
+    width: 176px;
+    float: left;
+margin-right: 36px;
+    margin-left: 36px;
+}
+
+
+
+.image{
+    
+  
+    
+}
+
+.skill_title{
+    
+    width: 176px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+     text-align: center;
+    clear: both;
+}
+
+.url{
+    
+    width: 176px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    clear: both;
+    font-size: 10px;
+}
+
+
+clear {
+    clear: both;
+}
+
+
+.table_space{
+    
+    width: 20px;
+    
+      display: inline;
+    
+}
+
+.grey_line {
+    background-color: #D3D3D3;
+
+    font-weight: bold;
+    top: -112px;
+    padding: 2px;
+    border-radius: 20px;
+    color: #3d4d5e;
+  
+    position: relative; 
+     width: 595px;
+}
+
+.clear {
+  clear: both 
+  }
+
+
+
+.logo {
+   width: 10%;
+  float: left
+    padding-top: 60px;
+    width: 25%;
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+}
+
+
+.logo_background {
+   
+  float: left
+    padding-top: 60px;
+    background-color: white;
+    border-radius: 20px;
+    color: white;
+    padding: 0px;
+    width: 287px;
+    height: 116px;
+    border-left-width: 10px;
+}
+
+
+
+.title-yellow  {
+   
+    color: #2d3c49;
+    font-size: 19px;
+}
+
+
+
+.alignmnet_center {
+   
+ text-align: center
+    
+}
+
+/* margins push other elements away */ 
+h2 {
+    margin: 10px;
+}
+
+
+
+
+
+
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+
+
+_________
+
+
+
+
+* {
+   outline: 1px solid red !important;
+}
+
+
+h1 {
+    text-align: center;
+    color: #294860;
+}
+
+.title {
+        
+            
+            background: #33BEBE;
+          font color: azure
+                
+    }
+
+a {
+    color: whitesmoke;
+    text-align: center;
+}
+
+element.style{
+    display: flex
+    
+
+
+      .title {
+        
+            color: #33BEBE;
+            display: none;
+          
+                
+    }
+        
+
+
+
+
+
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+} 
+
+
+.description{
+    color: blue
+    
+    
+}
+
+
+
+
+
+
+    
+
+  }
+</style>
